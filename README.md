@@ -5,7 +5,7 @@ Node-RED flow that contains functionality for figuring out where a patient is lo
 ## Getting started
 
 ### Prerequisites
-* A cellphone with internet acccess
+* A cellphone with internet access
 * A pair of Google Glasses
   1. *(Handled by course instructors)* The user account connected to the Glasses must be signed in at http://glassproxy.mybluemix.net/auth
   2. *(Handled by course instructors)* The userID of the account must be inserted into the URL of all HTTP requests made to glassproxy in the Node-RED flow. 
