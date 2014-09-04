@@ -30,7 +30,7 @@ Node-RED flow that contains functionality for figuring out where a patient is lo
 
 ### Running the example
 1. Open a browser and go to \<your_app_name\>.mybluemix.net/map
-2. Open a browser on your cellphone and go to \<your_app_name\>.mybluemix.net/client
+2. Open a browser on your cellphone and go to \<your_app_name\>.mybluemix.net/client/\<your_phone_number\>
   * *OR* register for a trial account at http://www.twilio.com and insert your Twilio API key and your phone number into the SMS node. Update the URL in "Send SMS to patient" and click the Inject-button to send an SMS
 3. In /client enter the patient's name and click "Start tracking"
 4. View the patient's position in /map
