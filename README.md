@@ -35,3 +35,6 @@ Node-RED flow that contains functionality for figuring out where a patient is lo
 3. In /client enter the patient's name and click "Start tracking"
 4. View the patient's position in /map
 5. Click the marker of the patient to dispatch an ambulance (Google Glass notification) 
+
+### Tips and tricks
+* It is easy to simulate the position of the patient with Google Chrome on a desktop in Developer Tools.
